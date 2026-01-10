@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🍱 UX/UI Designer & Web Developer
+- 🍱 UX/UI Designer & Typescript Developer
 - 🔭 Currently working on the CrossStream Discord bot. **[Join us](https://dsc.gg/crossstream)** !
 
 ### 🌐 Socials:
